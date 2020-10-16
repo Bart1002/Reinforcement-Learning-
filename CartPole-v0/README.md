@@ -1,4 +1,4 @@
-'''python
+```python
 10 runing reward 9.15810050789863
 20 runing reward 15.909026447864305
 30 runing reward 19.15347698814536
@@ -28,4 +28,4 @@
 270 runing reward 191.88474082091489
 280 runing reward 192.09797314001963
 Solved at epizode 289!
-'''
+```
